@@ -1,2 +1,2 @@
 # ThanksRing
-testing....
+testing
